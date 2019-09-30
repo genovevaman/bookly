@@ -1,13 +1,44 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+* {
+    margin: 0;
+    box-sizing: border-box;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+body {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    font-size: 24px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: #1b2029;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #5c5d73;
+    font-family: "Roboto Slab", serif;
+}
+
+button, input {
+    height: 48pt;
+} 
+
+/* Color Theme Swatches in Hex */
+.color-1 {
+    color: #343240;
+}
+.color-2 {
+    color: #5c5d73;
+}
+.color-3 {
+    color: #8590a6;
+}
+.color-4 {
+    color: #b4c4d9;
+}
+.color-5 {
+    color: #f0f2f2;
 }
