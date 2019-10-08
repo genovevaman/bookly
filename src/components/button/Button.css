@@ -1,27 +1,27 @@
 button.button {
     display: inline-grid;
-    background-color: #676a9c;
+    background-color: #275950;
     border: 2px solid transparent;
     border-radius: 16px;
-    color: #c7c8ec;
+    color: #112026;
     font-size: 20pt;
     font-weight: bold;
     outline: none;
-    padding: .5em 1em;
+    padding: 0.5em 1em;
 }
 
 button.button:hover {
-    background-color: #7376b9;
+    background-color: #81ad74;
 }
 
 button.button:focus {
-    background-color: #787cca; 
+    background-color: #81ad74;
 }
 
 button.button-icon {
     width: 40pt;
     height: 40pt;
-    padding: .5em;
+    padding: 0.5em;
     margin: 8pt;
     border-radius: 50%;
 }

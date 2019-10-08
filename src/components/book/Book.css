@@ -1,0 +1,25 @@
+.book {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: baseline;
+}
+
+.book .index {
+    font-family: "Consolas", monospace;
+    font-size: 16px;
+    background-color: #141920;
+    color: #bad9d3;
+    padding: 10px;
+    margin-right: 15px;
+}
+
+.book h2.title {
+    font-family: "Roboto", sans-serif;
+    font-size: 24px;
+}
+
+.book p.authors {
+    font-size: 20px;
+    color: #bad9d3;
+    margin-left: 10px;
+}

@@ -3,13 +3,19 @@
     box-sizing: border-box;
 }
 
+/* color: #112026;
+color: #275950;
+color: #BAD9D3;
+color: #81AD74;
+color: #F2F2F2; */
+
 body {
     margin: 0;
     font-family: "Roboto", sans-serif;
     font-size: 24px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    background: #1b2029;
+    background: #112026;
 }
 
 h1,
@@ -18,7 +24,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: #5c5d73;
+    color: #2a6e62;
     font-family: "Roboto Slab", serif;
 }
 
