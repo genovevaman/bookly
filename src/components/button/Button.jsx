@@ -15,7 +15,7 @@ export const Button = ({
 
     return (
         <button onClick={handleClick}
-            className={classNames("button", { "button-icon": isIcon })} 
+            className={classNames("btn", { "btn-icon": isIcon })} 
             {...rest}
         >
             {children}

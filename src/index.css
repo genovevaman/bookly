@@ -3,11 +3,6 @@
     box-sizing: border-box;
 }
 
-/* color: #112026;
-color: #275950;
-color: #BAD9D3;
-color: #81AD74;
-color: #F2F2F2; */
 
 body {
     margin: 0;
@@ -27,10 +22,6 @@ h6 {
     color: #2a6e62;
     font-family: "Roboto Slab", serif;
 }
-
-button, input {
-    height: 48pt;
-} 
 
 /* Color Theme Swatches in Hex */
 .color-1 {
